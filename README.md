@@ -1,2 +1,1 @@
-# Super Mario Sunshine WebGL
-Trying to run super mario sunshine on webgl
+Nintendo gamecube games on webgl (i suck at this so much)
