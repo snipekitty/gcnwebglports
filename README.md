@@ -1,1 +1,1 @@
-Nintendo gamecube games on webgl (i suck at this so much)
+gcn games on web using emscripten and dolphin
